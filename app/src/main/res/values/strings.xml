@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PaisesApp</string>
+    <string name="hint_pais">País</string>
+    <string name="hint_codigo">Código</string>
+</resources>
